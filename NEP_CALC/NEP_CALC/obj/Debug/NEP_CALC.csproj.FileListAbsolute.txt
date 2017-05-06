@@ -1,0 +1,9 @@
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\bin\Debug\NEP_CALC.exe.config
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\bin\Debug\NEP_CALC.exe
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\bin\Debug\NEP_CALC.pdb
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\obj\Debug\NEP_CALC.csprojResolveAssemblyReference.cache
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\obj\Debug\NEP_CALC.calculator.resources
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\obj\Debug\NEP_CALC.Properties.Resources.resources
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\obj\Debug\NEP_CALC.csproj.GenerateResource.Cache
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\obj\Debug\NEP_CALC.exe
+c:\users\dell-\documents\visual studio 2015\Projects\NEP_CALC\NEP_CALC\obj\Debug\NEP_CALC.pdb
